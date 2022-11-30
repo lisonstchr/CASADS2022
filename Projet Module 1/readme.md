@@ -1,4 +1,4 @@
-#Project Module 1 
+# Project Module 1 
 
 This folder contains the report for the Module 1 of the CAS in Applied Data Science of the University of Bern. 
 
