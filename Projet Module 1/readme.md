@@ -7,4 +7,4 @@ It contains 2 .docx documents:
 2. CAS-ADS-M1-Project-Kim-Lisa.docx, the original template of the conceptual design report, provided by the University of Bern 
 
 The folder also contains a sub-folder: 
-1. Image, that contains some of the images in the report. 
+1. Images, that contains some of the images in the report. 
