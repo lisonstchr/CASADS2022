@@ -6,5 +6,7 @@ https://www.unibe.ch/continuing_education_programs/cas_in_applied_data_science/i
 
 ## Sub-folders 
 Projet 1 
+
 Projet 2 
+
 Projet 3 
