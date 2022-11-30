@@ -1,5 +1,5 @@
 # Project Module 2
-This folder contains the project for the Module 2 of the CAS in Applied Data Science of the University of Bern. The project consists of an analysis of a Dataset retrieved from the Swiss parliamentary website that list every vote of each national councilor for the special parliamentary session in May 2022. The aim of the analysis is to analyze when parlamentarier vote against their party.  
+This folder contains the project for the Module 2 of the CAS in Applied Data Science of the University of Bern. The project consists of an analysis of a Dataset retrieved from the Swiss parliamentary website that list every vote of each national councilor for the special parliamentary session in May 2022. The aim of the analysis is to analyze when parlamentarier vote against their party. This project is a collaboration between Emilie Zuchinetti, Kim Lan Vu and Lisa Asticher.
 
 The folders contains: 
 1.1 CADADS_M2_dataset_Emilie.csv, a csv file created by Emilie Zuchinetti consisting of a long version of the dataset. 
