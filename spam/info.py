@@ -1,3 +1,10 @@
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/lisonstchr/CASADS2022/edit/main/spam/info.py)
+The HTML equivalent is:
+
+<a href="https://colab.research.google.com/github/googlecolab/colabtools/blob/master/notebooks/colab-github-demo.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
+
 import csv
 
 import numpy as np
